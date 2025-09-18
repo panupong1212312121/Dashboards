@@ -29,6 +29,6 @@ This dashboard provides a detailed look into service reservation data across var
 This dashboard was built using **Power BI & DAX**, leveraging its data transformation and visualization capabilities.
   
 * **Power BI File:**
-    * [Service Reservations (Dashboard).pbix](https://github.com/panupong1212312121/Dashboards/blob/b1/Service%20Reservations/Service%20Reservations%20(Dashboard).pbix)
+    * [Service Reservation (Dashboard).pbix](https://github.com/panupong1212312121/Dashboards/blob/b1/Service%20Reservation/Service%20Reservation%20(Dashboard).pbix)
 * **Dashboard Previews:**
-    * [Service Reservations (Dashboard).pdf](https://github.com/panupong1212312121/Dashboards/blob/b1/Service%20Reservations/Service%20Reservations%20(Dashboard).pdf)
+    * [Service Reservation (Dashboard).pdf](https://github.com/panupong1212312121/Dashboards/blob/b1/Service%20Reservation/Service%20Reservation%20(Dashboard).pdf)
