@@ -28,8 +28,6 @@ This project presents an in-depth analysis of the 2022 Bangkok gubernatorial and
 This dashboard was built using **Power BI & DAX**, leveraging its data transformation and visualization capabilities.
 
 * **Power BI File:**
-    * [Election Bangkok (Dashboard).pbix]
-(https://github.com/panupong1212312121/Dashboards/tree/main/workflows/Election Bangkok/Election Bangkok (Dashboard).pbix)
+    * [Election_Bangkok_(Dashboard).pbix](https://github.com/panupong1212312121/Dashboards/blob/b1/Election%20Bangkok/Election%20Bangkok%20(Dashboard).pbix)
 * **Dashboard Previews:**
-    * [Election Bangkok (Dashboard).pdf]
-(https://github.com/panupong1212312121/Dashboards/tree/main/workflows/Election Bangkok/Election Bangkok (Dashboard).pdf)
+    * [Election_Bangkok_(Dashboard).pdf](https://github.com/panupong1212312121/Dashboards/blob/b1/Election%20Bangkok/Election%20Bangkok%20(Dashboard).pdf)
